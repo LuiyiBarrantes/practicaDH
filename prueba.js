@@ -1,1 +1,1 @@
-let frutas 
+let frutas = ["frutilla", "naranja", "manzana"]
